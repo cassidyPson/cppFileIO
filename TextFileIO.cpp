@@ -47,6 +47,7 @@ int main() {
             std::cout << line << std::endl;
         }
     }
+    readFile2.close();
 
     return 0;
 }
